@@ -46,6 +46,23 @@
 tr:nth-child(even){
     background-color: rgb(202,171,121);
 }
+tr:nth-child(odd){
+    background-color: rgb(215,250,240);
+}
+.SHE:hover{
+    width:100px;
+    height:50px;
+    box-shadow: 10px 10px 5px #90EE90;
+    font-size: 15px;
+    padding:3px;
+}
+.HE:hover{
+    width:100px;
+    height:50px;
+    box-shadow: 10px 10px 5px #ca0ba1;
+    font-size: 15px;
+    padding: 3px;
+}
 li a{
     display: block;
     color: black;
