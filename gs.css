@@ -23,7 +23,7 @@
     ;
 }
 .table{
-    border: 2px solid rgb(205, 163, 79);
+    border: 2px solid rgb(87, 89, 205);
     height: 30px;
     vertical-align: bottom;
     padding: 15px;
@@ -32,23 +32,23 @@
 .th{
     height: 50px;
     text-align: center;
-    border-top: 6px solid rgb(61,151,113);
-    border-bottom: 2px solid rgb(61,151,113);
-    border-left: 3px solid rgb(61,151,113);
-    border-right: 3px solid rgb(61,151,113);
+    border-top: 6px solid rgb(151, 61, 95);
+    border-bottom: 2px solid rgb(82, 151, 61);
+    border-left: 3px solid rgb(151, 148, 61);
+    border-right: 3px solid rgb(151, 61, 82);
 }
 .td{
-    border: 2px solid rgb(160,177,92);
+    border: 2px solid rgb(92, 150, 177);
     height:30px;
     vertical-align: bottom;
     padding: 15px;
     border-bottom: 2px solid rgb(177,92,134);
 }
 tr:nth-child(even){
-    background-color: rgb(202,171,121);
+    background-color: rgb(188, 121, 202);
 }
 tr:nth-child(odd){
-    background-color: rgb(215,250,240);
+    background-color: rgb(215, 250, 248);
 }
 .SHE:hover{
     width:100px;
