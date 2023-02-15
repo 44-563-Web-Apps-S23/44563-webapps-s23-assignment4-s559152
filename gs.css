@@ -4,16 +4,6 @@
     font-size: 20px;
     background-color: #90EE90;
 }
-.direction{
-    color: #454545;
-    background-color: #00828b;
-    font-style:oblique;
-    font-size: 40px;
-}
-.direction:hover{
-    background-color: lightgoldenrodyellow;
-    color: orange;
-}
 .SHE{
     font-style: italic;
     background-color: #ec90ee;
